@@ -1,0 +1,41 @@
+body {
+    background-image: url("Background.jpg");
+    background-size: cover;
+}
+h1 {
+    color: white; 
+    font-family: 'Abril Fatface', serif;
+    font-size: 400%;
+    font-weight: lighter;
+    font-style: italic;
+    border-style: outset;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-family: 'Marck Script', cursive;
+    font-size: 250%;
+    font-weight: lighter;
+    text-align: center;
+}
+div.Texto {
+    color: white;
+    font-family: 'Arsenal', sans-serif;
+    font-size: 150%;
+    font-weight: bolder;
+    font-style: oblique;
+    letter-spacing: 5px;
+    line-height: 2.2;
+}
+button {
+    background-color: #ff0000;
+    border-radius: 50px;
+    padding: 10px 15px;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    width: 200px;    
+}
+div.Botão {
+    text-align: center;
+}
